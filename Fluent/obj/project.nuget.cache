@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ewNA9PHlAgD9K0emr48Huss3a/+FO/h5edObXEBBjRlL2uvR03NGjP49cowY/Yx6nFtn3Ww2USDzHeQuhGk5SA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lntinfotech\\Fluent\\Fluent\\Fluent.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lntinfotech\\.nuget\\packages\\fluentassertions\\5.10.3\\fluentassertions.5.10.3.nupkg.sha512",
+    "C:\\Users\\Lntinfotech\\.nuget\\packages\\system.configuration.configurationmanager\\4.4.0\\system.configuration.configurationmanager.4.4.0.nupkg.sha512",
+    "C:\\Users\\Lntinfotech\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.4.0\\system.security.cryptography.protecteddata.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
